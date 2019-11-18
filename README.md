@@ -1,6 +1,6 @@
 # Data-Structures-Algorithms
 
-This is a repository to maintain the codebase used under my Medium Blogs related to Data Structures and Algorithms. 
+This is a repository to maintain the codebase used under my Medium Blogs. 
 
 I generally write the solutions in Java language and you can find them under java folder inside each folder. 
 
@@ -18,3 +18,5 @@ https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contributi
 
 ## Contributors
 [@anandkumarkparmar](https://github.com/anandkumarkparmar)
+
+Note: Your name will be added here if your submission will be accepted. 
